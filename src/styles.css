@@ -180,7 +180,7 @@ textarea {
 }
 
 input {
-    height: 40px;
+    height: px;
     margin: 3px 0;
     outline: none;
     line-height: normal;
@@ -2818,7 +2818,7 @@ input[type="submit"]:hover {
 input[type=text],
 select {
     width: 100%;
-    padding: 12px 20px;
+    padding: 1px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
